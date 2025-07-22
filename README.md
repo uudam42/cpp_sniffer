@@ -1,4 +1,4 @@
-<!-- Build Status -->(https://github.com/uudam42/cpp_sniffer/actions/workflows/cmake.yml/badge.svg)](https://github.com/uudam42/cpp_sniffer/actions)
+(https://github.com/uudam42/cpp_sniffer/actions/workflows/cmake.yml/badge.svg)](https://github.com/uudam42/cpp_sniffer/actions)
 
 <!-- C++ 版本 -->
 [![C++17](https://img.shields.io/badge/C%2B%2B-17-blue.svg)](https://isocpp.org/)
