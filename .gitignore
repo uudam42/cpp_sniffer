@@ -1,0 +1,17 @@
+# CMake 构建产物
+/build/
+/CMakeFiles/
+/CMakeCache.txt
+/cmake_install.cmake
+/Makefile
+/compile_commands.json
+
+# 可执行文件
+/sniffer
+
+# 日志
+*.log
+
+# 编辑器、系统文件
+.vscode/
+.DS_Store
