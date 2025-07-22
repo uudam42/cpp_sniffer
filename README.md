@@ -1,3 +1,13 @@
+<!-- Build Status -->
+[![Build Status](https://github.com/uudam42/cpp_sniffer/actions/workflows/cmake.yml/badge.svg)](https://github.com/uudam42/cpp_sniffer/actions)
+
+<!-- C++ 版本 -->
+[![C++17](https://img.shields.io/badge/C%2B%2B-17-blue.svg)](https://isocpp.org/)
+
+<!-- License -->
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/uudam42/cpp_sniffer/blob/main/LICENSE)
+
+
 # C++ Sniffer
 
 A simple command-line network packet sniffer built in C++ using **libpcap**. It supports:
