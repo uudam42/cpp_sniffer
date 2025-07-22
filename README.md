@@ -7,6 +7,8 @@
 
 # C++ Sniffer
 
+This project implements a lightweight, modular C++ packet sniffer framework built on **libpcap**. It supports real-time and count-limited capture modes with advanced BPF filtering, structured output and optional timestamped logging. Designed for educational use, network troubleshooting, and security testing, the codebase follows a clear CMake-driven build process and clean modular parsing of Ethernet, IP, and transport-layer headers.
+
 A simple command-line network packet sniffer built in C++ using **libpcap**. It supports:
 
 - Real-time packet capture on specified network interface (default: `en0`)
