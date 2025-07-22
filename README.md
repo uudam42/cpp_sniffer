@@ -52,7 +52,7 @@ cpp_sniffer/
 │   ├── sniffer.hpp
 │   ├── parser.hpp
 │   └── utils.hpp
-├── .gitignore            # Ignore build artifacts, logs, etc.
+└── .gitignore            # Ignore build artifacts, logs, etc.
 
 ```
 
