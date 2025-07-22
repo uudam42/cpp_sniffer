@@ -1,0 +1,3 @@
+/Users/uudam/Desktop/cpp_sniffer/build/CMakeFiles/sniffer.dir
+/Users/uudam/Desktop/cpp_sniffer/build/CMakeFiles/edit_cache.dir
+/Users/uudam/Desktop/cpp_sniffer/build/CMakeFiles/rebuild_cache.dir

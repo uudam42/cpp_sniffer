@@ -1,0 +1,18 @@
+cmake_minimum_required(VERSION 3.10)
+project(CPPSniffer)
+
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
+
+find_library(PCAP_LIB pcap)
+include_directories(${CMAKE_SOURCE_DIR}/include)
+
+add_executable(sniffer
+    src/main.cpp
+    src/sniffer.cpp
+    src/parser.cpp
+    src/utils.cpp
+)
+
+target_link_libraries(sniffer ${PCAP_LIB})
+

@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/sniffer.dir/src/main.cpp.o CMakeFiles/sniffer.dir/src/sniffer.cpp.o CMakeFiles/sniffer.dir/src/parser.cpp.o CMakeFiles/sniffer.dir/src/utils.cpp.o -o sniffer  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/lib/libpcap.tbd

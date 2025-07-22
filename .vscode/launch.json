@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Sniffer Debug",
+      "type": "lldb",
+      "request": "launch",
+      "program": "${workspaceFolder}/build/sniffer",
+      "args": ["10"],            // 捕获 10 个包就退出
+      "cwd": "${workspaceFolder}",
+      "preLaunchTask": "CMake Build",
+      "initCommands": ["platform shell sudo true"]
+    }
+  ]
+}
